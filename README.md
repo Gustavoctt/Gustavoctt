@@ -6,7 +6,7 @@
 <br/>:computer: No momento trabalho como Desenvolvedor no setor de Tecnologia e Informação da Univesidade.
 <br/>:iphone: Venho estudado sobre NodeJs e React, e também o React Native para as aplicações Mobiles.
 
-<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e um grande amante de filmes e séries.
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, CS:GO e sou um grande amante de filmes e séries.
 
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoTartare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-tartare-3631621a4/)](https://www.linkedin.com/in/gustavo-tartare-3631621a4/) 
 |
