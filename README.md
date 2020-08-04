@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, me chamo Gustavo :grin:
 
-<!--
-**Gustavoctt/Gustavoctt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>:wave: Meu nome é Gustavo Tartare, sou natural de Orleans, Santa Catarina, e tenho 21 anos. 
+<br/>:mortar_board: Atualmente estou na 8ª fase do curso de Sistemas de Informação do Centro Universitário Barriga Verde - UNIBAVE. 
 
-Here are some ideas to get you started:
+<br/>:computer: No momento trabalho como Desenvolvedor no setor de Tecnologia e Informação da Univesidade.
+<br/>:iphone: Venho estudado sobre NodeJs e React, e também o React Native para as aplicações Mobiles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO e um grande amante de filmes e séries.
+
+<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoTartare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-tartare-3631621a4/)](https://www.linkedin.com/in/gustavo-tartare-3631621a4/) 
+|
+[![Gmail Badge](https://img.shields.io/badge/-gustavocarrertartare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocarrertartare@gmail.com)](mailto:gustavocarrertartare@gmail.com)
