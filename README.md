@@ -1,4 +1,4 @@
-# Olá, me chamo Gustavo :grin:
+# E ai, tudo certo? :grin:
 
 <br/>:wave: Meu nome é Gustavo Tartare, sou natural de Orleans, Santa Catarina, e tenho 21 anos. 
 <br/>:mortar_board: Atualmente estou na 8ª fase do curso de Sistemas de Informação do Centro Universitário Barriga Verde - UNIBAVE. 
