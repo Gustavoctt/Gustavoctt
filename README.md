@@ -1,7 +1,7 @@
 # E ai, tudo certo? :grin:
 
 <br/>:wave: Meu nome é Gustavo Tartare, sou natural de Orleans, Santa Catarina, e tenho 21 anos. 
-<br/>:mortar_board: Atualmente estou na 8ª fase do curso de Sistemas de Informação do Centro Universitário Barriga Verde - UNIBAVE. 
+<br/>:mortar_board: Sou graduado em Sistemas de Informação do Centro Universitário Barriga Verde - UNIBAVE. 
 
 <br/>:computer: No momento trabalho como Desenvolvedor no setor de Tecnologia e Informação da Univesidade.
 <br/>:iphone: Venho estudado sobre NodeJs e React, e também o React Native para as aplicações Mobiles.
