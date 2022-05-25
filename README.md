@@ -1,13 +1,18 @@
-# E ai, tudo certo? :grin:
+![github-header-image](https://user-images.githubusercontent.com/44401595/170358292-48a27b97-fc89-442b-9e47-d74680c5fd33.png)
 
-<br/>:wave: Meu nome é Gustavo Tartare, sou natural de Orleans, Santa Catarina, e tenho 21 anos. 
-<br/>:mortar_board: Sou graduado em Sistemas de Informação do Centro Universitário Barriga Verde - UNIBAVE. 
+<br/>
+<br/>
+<ul>
+  <li> :mortar_board: I’m graduate in information systems</li>
+  <li> 💬 I’m currently working on Aoop Cloud Solutions</li>
+  <li> :computer: I’m always studying JavaScript, ReactJS, React Native, TypeScript</li>
+</ul>
 
-<br/>:computer: No momento trabalho como Desenvolvedor no setor de Tecnologia e Informação da Univesidade.
-<br/>:iphone: Venho estudado sobre NodeJs e React, e também o React Native para as aplicações Mobiles.
+<hr>
 
-<br/> 💬  &nbsp; Curto tecnologias e apaixonado por tudo o que envolva futebol.
+<div>
+  
+ [![Linkedin Badge](https://img.shields.io/badge/-GustavoTartare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-tartare/)](https://www.linkedin.com/in/gustavo-tartare/) 
 
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-GustavoTartare-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-tartare-3631621a4/)](https://www.linkedin.com/in/gustavo-tartare-3631621a4/) 
-|
-[![Gmail Badge](https://img.shields.io/badge/-gustavocarrertartare@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gustavocarrertartare@gmail.com)](mailto:gustavocarrertartare@gmail.com)
+</div>
+
