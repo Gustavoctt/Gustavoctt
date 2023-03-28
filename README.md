@@ -4,7 +4,6 @@
 <br/>
 <ul>
   <li> :mortar_board: I’m graduate in information systems</li>
-  <li> 💬 I’m currently working on Aoop Cloud Solutions</li>
   <li> :computer: I’m always studying JavaScript, ReactJS, React Native, TypeScript</li>
 </ul>
 
